@@ -1,0 +1,526 @@
+[
+  {
+    "$id": "1",
+    "$type": "Tdms.Farvater.WebApi.DTO.Objects.ProjectsDocumentation.ProjectDto, Tdms.Farvater",
+    "title": "Саяно-Шушенская",
+    "identifier": 337,
+    "capitalConstructionType": {
+      "$id": "2",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_CAPITALCONSTRUCTION_HYDRO",
+      "code": "02.4",
+      "handle": "TH4D0D14390D000000000000",
+      "description": "Объект производственного назначения - гидротехнические сооружения",
+      "assignable": true
+    },
+    "projectType": {
+      "$id": "3",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_PROJECTTYPE_CONSTRUCTION",
+      "code": "1",
+      "handle": "TH240D14100D000000000000",
+      "description": "Строительство",
+      "assignable": true
+    },
+    "generalDesigner": {
+      "$id": "4",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "ООО \"Магма-Компьютер\"",
+      "handle": "THC2E103BEE1010000000000",
+      "sysId": "LEGALENTITY_DEF"
+    },
+    "startDate": "2025-01-19T21:00:00Z",
+    "finishDate": "2035-01-21T21:00:00Z",
+    "projectsObject": "Самая мощная электростанция России, одна из самых мощных гидроэлектростанций в мире. Расположена на реке Енисей, в посёлке Черёмушки (Хакасия), возле Саяногорска.",
+    "code": "ГЭС",
+    "notation": "ГЭС",
+    "createUser": {
+      "$id": "5",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Маяковский",
+      "handle": "TH6819155019030000000000",
+      "sysId": "USER_16ACCF63_4EC4_4880_859A_D065AC8F7527"
+    },
+    "createTime": "2025-01-20T03:33:27.044Z",
+    "modifyUser": {
+      "$id": "6",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Есенин",
+      "handle": "TH3F85152A85000000000000",
+      "sysId": "USER_7AD32517_6453_496B_B15F_6809FAB5B2EE"
+    },
+    "modifyTime": "2025-02-06T10:16:47.765Z",
+    "guid": "{190B04DE-C12D-4E47-80D6-57E4C3639264}",
+    "type": "PROJECT_DEF",
+    "hasWorkflow": false,
+    "status": {
+      "$id": "7",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater"
+    },
+    "description": "[ГЭС] Саяно-Шушенская",
+    "handle": "THDCF803D5F8040000000000",
+    "sysId": "PROJECT_DEF"
+  },
+  {
+    "$id": "8",
+    "$type": "Tdms.Farvater.WebApi.DTO.Objects.ProjectsDocumentation.ProjectDto, Tdms.Farvater",
+    "title": "Генеральный проект по разработке",
+    "identifier": 9,
+    "capitalConstructionType": {
+      "$id": "9",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_CAPITALCONSTRUCTION_LINEAR_TERRITORIAL",
+      "code": "01.3",
+      "handle": "TH390D14250D000000000000",
+      "description": "Линейный объект - инженерная защита и подготовка территории",
+      "assignable": true
+    },
+    "projectType": {
+      "$id": "10",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_PROJECTTYPE_SAVECULTURALHERITAGE",
+      "code": "5",
+      "handle": "TH2D0D14190D000000000000",
+      "description": "Сохранение объекта культурного наследия",
+      "assignable": true
+    },
+    "generalDesigner": {
+      "$id": "11",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Акционерное общество \"Омскводоканал\"",
+      "handle": "TH9D9B039A9B000000000000",
+      "sysId": "LEGALENTITY_DEF"
+    },
+    "gip": {
+      "$id": "12",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Пушкин",
+      "handle": "TH098515F484000000000000",
+      "sysId": "USER_C545A55D_5FDD_493D_9FE1_8D8862102C50"
+    },
+    "startDate": "2024-10-14T18:00:00Z",
+    "finishDate": "2024-10-15T18:00:00Z",
+    "projectsObject": "eee",
+    "code": "22",
+    "notation": "22",
+    "createUser": {
+      "$id": "13",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Лермонтов",
+      "handle": "TH2B07151607000000000000",
+      "sysId": "USER_D903BD30_D0C2_449E_B033_71AC3D712DC9"
+    },
+    "createTime": "2024-10-15T04:27:23.573Z",
+    "modifyUser": {
+      "$id": "14",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "SYSADMIN",
+      "handle": "THFD0315E803000000000000",
+      "sysId": "SYSADMIN"
+    },
+    "modifyTime": "2025-02-04T10:04:44.646Z",
+    "guid": "{5910B0C2-1313-40A1-BE5B-25BC7B416BDC}",
+    "type": "PROJECT_DEF",
+    "hasWorkflow": false,
+    "status": {
+      "$id": "15",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater"
+    },
+    "description": "[22] Генеральный проект по разработке",
+    "handle": "THD6BB03D3BB000000000000",
+    "sysId": "PROJECT_DEF"
+  },
+  {
+    "$id": "16",
+    "$type": "Tdms.Farvater.WebApi.DTO.Objects.ProjectsDocumentation.ProjectDto, Tdms.Farvater",
+    "title": "Проект 2",
+    "identifier": 342,
+    "capitalConstructionType": {
+      "$id": "17",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_CAPITALCONSTRUCTION_LINEAR_RAILROADS",
+      "code": "01.6",
+      "handle": "TH430D142F0D000000000000",
+      "description": "Линейный объект - железные дороги",
+      "assignable": true
+    },
+    "projectType": {
+      "$id": "18",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_PROJECTTYPE_CONSTRUCTION",
+      "code": "1",
+      "handle": "TH240D14100D000000000000",
+      "description": "Строительство",
+      "assignable": true
+    },
+    "gip": {
+      "$id": "19",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Лермонтов",
+      "handle": "TH2B07151607000000000000",
+      "sysId": "USER_D903BD30_D0C2_449E_B033_71AC3D712DC9"
+    },
+    "startDate": "2025-01-27T18:00:00Z",
+    "finishDate": "2025-01-29T18:00:00Z",
+    "projectsObject": "Проект 2",
+    "code": "Проект 2",
+    "notation": "Проект 2",
+    "createUser": {
+      "$id": "20",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Грибоедов",
+      "handle": "TH5185153C85000000000000",
+      "sysId": "USER_83BC9E01_2244_4743_8091_EFA652D9A870"
+    },
+    "createTime": "2025-01-25T18:31:46.565Z",
+    "modifyUser": {
+      "$id": "21",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Есенин",
+      "handle": "TH3F85152A85000000000000",
+      "sysId": "USER_7AD32517_6453_496B_B15F_6809FAB5B2EE"
+    },
+    "modifyTime": "2025-02-06T07:45:48.874Z",
+    "guid": "{B1E6C4A5-044A-4CD5-AFA1-B00CDD8C284F}",
+    "type": "PROJECT_DEF",
+    "hasWorkflow": false,
+    "status": {
+      "$id": "22",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater"
+    },
+    "description": "[Проект 2] Проект 2",
+    "handle": "THCE9103C691050000000000",
+    "sysId": "PROJECT_DEF"
+  },
+  {
+    "$id": "23",
+    "$type": "Tdms.Farvater.WebApi.DTO.Objects.ProjectsDocumentation.ProjectDto, Tdms.Farvater",
+    "title": "Балаковская АЭС",
+    "identifier": 269,
+    "capitalConstructionType": {
+      "$id": "24",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_CAPITALCONSTRUCTION_NUCLEAR",
+      "code": "02.5",
+      "handle": "TH530D143F0D000000000000",
+      "description": "Объект производственного назначения - атомные станции",
+      "assignable": true
+    },
+    "projectType": {
+      "$id": "25",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_PROJECTTYPE_CONSTRUCTION",
+      "code": "1",
+      "handle": "TH240D14100D000000000000",
+      "description": "Строительство",
+      "assignable": true
+    },
+    "generalDesigner": {
+      "$id": "26",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "ООО \"Магма-Компьютер\"",
+      "handle": "THC2E103BEE1010000000000",
+      "sysId": "LEGALENTITY_DEF"
+    },
+    "startDate": "2024-12-10T21:00:00Z",
+    "finishDate": "2035-11-11T21:00:00Z",
+    "projectsObject": "Атомная электростанция, расположенная в 12.5 км от города Балаково Саратовской области, на левом берегу Саратовского водохранилища. Расстояние до Саратова — 145 км. Является одной из крупнейших АЭС в России по выработке электроэнергии — более 30 млрд кВт·ч ежегодно[1], что обеспечивает четверть производства электроэнергии в Приволжском федеральном округе и составляет шестую часть выработки всех АЭС России[2]. Среди крупнейших электростанций всех типов в мире занимает 51-ю позицию[3]. Первый энергоблок БалАЭС был включён в Единую энергосистему СССР в декабре 1985 года, четвёртый блок в 1993 году стал первым введённым в эксплуатацию в России после распада СССР.",
+    "code": "XY-83.2",
+    "notation": "XY-83.2",
+    "createUser": {
+      "$id": "27",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Маяковский",
+      "handle": "TH6819155019030000000000",
+      "sysId": "USER_16ACCF63_4EC4_4880_859A_D065AC8F7527"
+    },
+    "createTime": "2024-12-11T09:30:01.693Z",
+    "modifyUser": {
+      "$id": "28",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "SYSADMIN",
+      "handle": "THFD0315E803000000000000",
+      "sysId": "SYSADMIN"
+    },
+    "modifyTime": "2025-01-27T08:54:20.126Z",
+    "guid": "{57CF0841-97FC-4014-8764-7015C00362D9}",
+    "type": "PROJECT_DEF",
+    "hasWorkflow": false,
+    "status": {
+      "$id": "29",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater"
+    },
+    "description": "[XY-83.2] Балаковская АЭС",
+    "handle": "TH056D03FF6C030000000000",
+    "sysId": "PROJECT_DEF"
+  },
+  {
+    "$id": "30",
+    "$type": "Tdms.Farvater.WebApi.DTO.Objects.ProjectsDocumentation.ProjectDto, Tdms.Farvater",
+    "title": "Жилой квартал «Зелёная Река»",
+    "identifier": 340,
+    "capitalConstructionType": {
+      "$id": "31",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_B6E7F63F_131D_4020_B61A_6A88F18681AC",
+      "code": "02.1",
+      "handle": "TH490D14350D000000000000",
+      "description": "Объект непроизводственного назначения",
+      "assignable": true
+    },
+    "projectType": {
+      "$id": "32",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_PROJECTTYPE_CONSTRUCTION",
+      "code": "1",
+      "handle": "TH240D14100D000000000000",
+      "description": "Строительство",
+      "assignable": true
+    },
+    "generalDesigner": {
+      "$id": "33",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "ООО \"Магма-Компьютер\"",
+      "handle": "THC2E103BEE1010000000000",
+      "sysId": "LEGALENTITY_DEF"
+    },
+    "gip": {
+      "$id": "34",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Толстой",
+      "handle": "THF78415E284000000000000",
+      "sysId": "USER_8F879254_DFA8_4E46_8A45_63222C5CCA0A"
+    },
+    "startDate": "2024-02-20T21:00:00Z",
+    "finishDate": "2026-02-25T21:00:00Z",
+    "projectsObject": "Первая очередь 14 жилых домов",
+    "code": "23/01/2025",
+    "notation": "23/01/2025",
+    "createUser": {
+      "$id": "35",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Толстой",
+      "handle": "THF78415E284000000000000",
+      "sysId": "USER_8F879254_DFA8_4E46_8A45_63222C5CCA0A"
+    },
+    "createTime": "2025-01-23T14:26:00.109Z",
+    "modifyUser": {
+      "$id": "36",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "SYSADMIN",
+      "handle": "THFD0315E803000000000000",
+      "sysId": "SYSADMIN"
+    },
+    "modifyTime": "2025-01-27T08:54:20.126Z",
+    "guid": "{66E0730E-0DB2-4011-A676-3D340A2EBCFF}",
+    "type": "PROJECT_DEF",
+    "hasWorkflow": false,
+    "status": {
+      "$id": "37",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater"
+    },
+    "description": "[23/01/2025] Жилой квартал «Зелёная Река»",
+    "handle": "TH2871032071050000000000",
+    "sysId": "PROJECT_DEF"
+  },
+  {
+    "$id": "38",
+    "$type": "Tdms.Farvater.WebApi.DTO.Objects.ProjectsDocumentation.ProjectDto, Tdms.Farvater",
+    "title": "ЖК Драверты",
+    "identifier": 341,
+    "capitalConstructionType": {
+      "$id": "39",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_CAPITALCONSTRUCTION_LINEAR_RAILROADS",
+      "code": "01.6",
+      "handle": "TH430D142F0D000000000000",
+      "description": "Линейный объект - железные дороги",
+      "assignable": true
+    },
+    "projectType": {
+      "$id": "40",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_PROJECTTYPE_CONSTRUCTION",
+      "code": "1",
+      "handle": "TH240D14100D000000000000",
+      "description": "Строительство",
+      "assignable": true
+    },
+    "gip": {
+      "$id": "41",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Толстой",
+      "handle": "THF78415E284000000000000",
+      "sysId": "USER_8F879254_DFA8_4E46_8A45_63222C5CCA0A"
+    },
+    "startDate": "2025-01-25T21:00:00Z",
+    "finishDate": "2025-01-27T21:00:00Z",
+    "projectsObject": "1",
+    "code": "1",
+    "notation": "1",
+    "createUser": {
+      "$id": "42",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Грибоедов",
+      "handle": "TH5185153C85000000000000",
+      "sysId": "USER_83BC9E01_2244_4743_8091_EFA652D9A870"
+    },
+    "createTime": "2025-01-25T18:28:51.86Z",
+    "modifyUser": {
+      "$id": "43",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "SYSADMIN",
+      "handle": "THFD0315E803000000000000",
+      "sysId": "SYSADMIN"
+    },
+    "modifyTime": "2025-02-05T06:26:06.266Z",
+    "guid": "{D8CAE60A-D58A-4EB8-B22B-EA4B147E020E}",
+    "type": "PROJECT_DEF",
+    "hasWorkflow": false,
+    "status": {
+      "$id": "44",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater"
+    },
+    "description": "[1] ЖК Драверты",
+    "handle": "TH9E91039691050000000000",
+    "sysId": "PROJECT_DEF"
+  },
+  {
+    "$id": "45",
+    "$type": "Tdms.Farvater.WebApi.DTO.Objects.ProjectsDocumentation.ProjectDto, Tdms.Farvater",
+    "title": "Европейский квартал в городе Тюмень",
+    "identifier": 343,
+    "capitalConstructionType": {
+      "$id": "46",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_B6E7F63F_131D_4020_B61A_6A88F18681AC",
+      "code": "02.1",
+      "handle": "TH490D14350D000000000000",
+      "description": "Объект непроизводственного назначения",
+      "assignable": true
+    },
+    "projectType": {
+      "$id": "47",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_PROJECTTYPE_CONSTRUCTION",
+      "code": "1",
+      "handle": "TH240D14100D000000000000",
+      "description": "Строительство",
+      "assignable": true
+    },
+    "generalDesigner": {
+      "$id": "48",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "ООО \"Магма-Компьютер\"",
+      "handle": "THC2E103BEE1010000000000",
+      "sysId": "LEGALENTITY_DEF"
+    },
+    "gip": {
+      "$id": "49",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Толстой",
+      "handle": "THF78415E284000000000000",
+      "sysId": "USER_8F879254_DFA8_4E46_8A45_63222C5CCA0A"
+    },
+    "startDate": "2025-01-26T21:00:00Z",
+    "finishDate": "2025-08-27T21:00:00Z",
+    "projectsObject": "Квартал",
+    "code": "2025-22-89",
+    "notation": "2025-22-89",
+    "createUser": {
+      "$id": "50",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Толстой",
+      "handle": "THF78415E284000000000000",
+      "sysId": "USER_8F879254_DFA8_4E46_8A45_63222C5CCA0A"
+    },
+    "createTime": "2025-01-27T11:22:13.909Z",
+    "modifyUser": {
+      "$id": "51",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Толстой",
+      "handle": "THF78415E284000000000000",
+      "sysId": "USER_8F879254_DFA8_4E46_8A45_63222C5CCA0A"
+    },
+    "modifyTime": "2025-01-27T11:22:13.909Z",
+    "guid": "{A8F9639D-69BC-47F2-8921-085A8E828C9A}",
+    "type": "PROJECT_DEF",
+    "hasWorkflow": false,
+    "status": {
+      "$id": "52",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater"
+    },
+    "description": "[2025-22-89] Европейский квартал в городе Тюмень",
+    "handle": "TH6ECA0366CA050000000000",
+    "sysId": "PROJECT_DEF"
+  },
+  {
+    "$id": "53",
+    "$type": "Tdms.Farvater.WebApi.DTO.Objects.ProjectsDocumentation.ProjectDto, Tdms.Farvater",
+    "title": "Семейный квартал Снегири в городе Омск",
+    "identifier": 344,
+    "capitalConstructionType": {
+      "$id": "54",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_B6E7F63F_131D_4020_B61A_6A88F18681AC",
+      "code": "02.1",
+      "handle": "TH490D14350D000000000000",
+      "description": "Объект непроизводственного назначения",
+      "assignable": true
+    },
+    "projectType": {
+      "$id": "55",
+      "$type": "Tdms.Farvater.WebApi.DTO.Objects.ClassifierDto, Tdms.Farvater",
+      "sysId": "NODE_PROJECTTYPE_CONSTRUCTION",
+      "code": "1",
+      "handle": "TH240D14100D000000000000",
+      "description": "Строительство",
+      "assignable": true
+    },
+    "generalDesigner": {
+      "$id": "56",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "ООО \"Магма-Компьютер\"",
+      "handle": "THC2E103BEE1010000000000",
+      "sysId": "LEGALENTITY_DEF"
+    },
+    "gip": {
+      "$id": "57",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Толстой",
+      "handle": "THF78415E284000000000000",
+      "sysId": "USER_8F879254_DFA8_4E46_8A45_63222C5CCA0A"
+    },
+    "startDate": "2025-01-27T18:00:00Z",
+    "finishDate": "2025-01-28T18:00:00Z",
+    "projectsObject": "Жилой микрорайон",
+    "code": "2025-02-02/89",
+    "notation": "2025-02-02/89",
+    "createUser": {
+      "$id": "58",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Толстой",
+      "handle": "THF78415E284000000000000",
+      "sysId": "USER_8F879254_DFA8_4E46_8A45_63222C5CCA0A"
+    },
+    "createTime": "2025-01-28T05:36:52.928Z",
+    "modifyUser": {
+      "$id": "59",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater",
+      "description": "Лермонтов",
+      "handle": "TH2B07151607000000000000",
+      "sysId": "USER_D903BD30_D0C2_449E_B033_71AC3D712DC9"
+    },
+    "modifyTime": "2025-01-29T00:53:51.471Z",
+    "guid": "{42F04FE6-0BDF-4E99-8D38-DB42E31C4C13}",
+    "type": "PROJECT_DEF",
+    "hasWorkflow": false,
+    "status": {
+      "$id": "60",
+      "$type": "Tdms.Farvater.WebApi.DTO.Core.ReferenceDto, Tdms.Farvater"
+    },
+    "description": "[2025-02-02/89] Семейный квартал Снегири в городе Омск",
+    "handle": "THBECD03B6CD050000000000",
+    "sysId": "PROJECT_DEF"
+  }
+]

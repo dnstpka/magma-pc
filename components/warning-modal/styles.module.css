@@ -1,0 +1,25 @@
+.errorBox {
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+  max-width: 300px;
+  width: 100%;
+  background-color: #ececec;
+  border: 1px solid #d4d4d4;
+  border-radius: 15px;
+  padding: 7px 15px 15px 15px;
+}
+
+.btn {
+  display: flex;
+  margin-left: auto;
+  background-color: transparent;
+  width: 18px;
+  height: 18px;
+}
+
+.text {
+  color: #000;
+  font-size: 14px;
+  margin-top: 15px;
+}

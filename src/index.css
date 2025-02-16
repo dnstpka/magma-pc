@@ -1,0 +1,75 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #000;
+}
+
+.container {
+  max-width: 1950px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.box {
+  padding-top: 15px;
+}
+
+table {
+  border: none;
+  border-collapse: collapse;
+
+  width: 100%;
+  font-size: 14px;
+}
+
+th,
+td {
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-align: center;
+}
+
+thead {
+  background-color: #f1f1f2;
+  border-bottom: 1px solid #dedede;
+}
+
+th {
+  padding: 10px;
+  border-right: 1px solid #dedede;
+}
+
+td {
+  padding: 10px 0;
+  border-bottom: 1px solid #dedede;
+}
+
+.tableTop {
+  background-color: #f1f1f2;
+}
